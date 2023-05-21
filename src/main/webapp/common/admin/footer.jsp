@@ -9,7 +9,7 @@
 				&copy; <a href="#">Site Name</a>, All Right Reserved.
 			</div>
 			<div class="col-12 col-lg-4 text-center">
-				Designed By <a href="#">Laravel Team</a>
+				Designed By Nguyễn Văn Dũng<a href="#">Laravel Team</a>
 			</div>
 			<div class="col-12 col-lg-4 text-center">
 				<a href="#"> <i class="bi bi-github"></i>
