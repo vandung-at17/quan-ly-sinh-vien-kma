@@ -1,5 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@include file="/common/taglib.jsp"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <!-- Sidebar Start -->
     <div class="sidebar pe-4 pb-3">
@@ -9,7 +9,7 @@
         </a>
         <div class="d-flex align-items-center ms-4 mb-4">
           <div class="position-relative">
-            <img class="rounded-circle" src="img/male.png" alt="" style="width: 40px; height: 40px" />
+            <img class="rounded-circle" src="<c:url value='/template/admin/img/male.png'/>" alt="" style="width: 40px; height: 40px" />
             <div class="bg-success rounded-circle border border-2 border-white position-absolute end-0 bottom-0 p-1">
             </div>
           </div>
